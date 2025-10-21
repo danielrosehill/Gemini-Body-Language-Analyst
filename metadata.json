@@ -1,0 +1,5 @@
+{
+  "name": "Body Language Analyst AI",
+  "description": "Upload photos, optionally tag people and provide context, and get an expert-level analysis of the body language from Gemini.",
+  "requestFramePermissions": []
+}
