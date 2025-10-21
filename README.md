@@ -1,5 +1,12 @@
 # Gemini Body Language Analyst
 
+![Google AI Studio](https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=flat&logo=google&logoColor=white)
+![Vibe Coded](https://img.shields.io/badge/Vibe%20Coded-00C4CC?style=flat&logo=sparkles&logoColor=white)
+![POC](https://img.shields.io/badge/POC-FF6B6B?style=flat&logo=experiment&logoColor=white)
+![Demo](https://img.shields.io/badge/Demo-4CAF50?style=flat&logo=play&logoColor=white)
+
+![App Processing](screenshots/app-2.png)
+
 ## Purpose
 
 This repository was created to test and explore Google's new "vibe coding" interface integrated into [AI Studio](https://aistudio.google.com/apps). The interface allows developers to rapidly prototype AI-powered applications by describing their ideas in natural language, which Gemini then transforms into functional web applications.
